@@ -1,4 +1,5 @@
-# Cup
+# 随意之光状态监控
+# a [Cup](https://github.com/CoolQ/Cup) fork
 
 基于 [Upscuits](https://github.com/digibart/upscuits)，以 [UptimeRobot](https://uptimerobot.com/) 为数据源的在线状态统计页面。
 
@@ -15,8 +16,8 @@
 
 ## 演示
 
-[酷Q状态](https://status.cqp.cc)
+[随意之光状态监控](https://status.suiyil.cn/)
 
 ## License
 
-This work is licensed under [GPLv3](https://github.com/CoolQ/Cup/blob/master/LICENSE).
+This work is licensed under GPLv3.
