@@ -16,7 +16,7 @@
 
 ## 演示
 
-[随意之光状态监控](https://status.suiyil.cn/)
+[随意之光状态监控](https://status.suiyil.cn/) （suiyil.cn） [github pages](https://suiyi-light.github.io/status-suiyi/)
 
 ## License
 
