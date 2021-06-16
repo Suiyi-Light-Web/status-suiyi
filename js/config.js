@@ -7,6 +7,7 @@ var __apiKeys = [
 	'm785621425-dea4d9234651279d2ce82726', //mail
 	'm785621461-ffd6f5b8daffc3076350c8f5', //pan
 	'm786256276-7343b9c7a7e7ad0bebd958dc', //api
+	'm788379347-decf8313e26692190a6f1d4d',//api2
 	'm785621427-8bfb95eddfd036327a2e729d',//status
 ];
 
